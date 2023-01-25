@@ -2,7 +2,7 @@
 
 def factorial(n):
     '''
-    Returns the product of all numbers from 1 to n.
+    Return the product of all numbers from 1 to n.
     >>> factorial(1)
     1
     >>> factorial(2)
