@@ -21,7 +21,6 @@ def factorial(n):
         result *= i
     return result
 
-
 def triangular(n):
     '''
     Returns the nth triangular number.
